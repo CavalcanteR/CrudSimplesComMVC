@@ -3,9 +3,7 @@ CRUD Simples com login e cadastro de dados em PHP com PDO e MVC
 
 #Controllers
 /controllers
-
 /controllers/Controller.php
-
 /controllers/IndexController.php
 /controllers/UsuarioController.php
 
