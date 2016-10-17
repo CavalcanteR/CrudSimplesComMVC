@@ -1,4 +1,4 @@
-# CrudSimplesComCPF
+# CrudSimplesComMVC
 CRUD Simples com login e cadastro de dados em PHP com PDO e MVC
 
 #Controllers
