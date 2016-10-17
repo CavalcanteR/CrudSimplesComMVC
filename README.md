@@ -53,7 +53,7 @@ Ativar em /componentes/configuracao.php e em /js/scripts.js
 -> $baseUrl: Local base do sistema. Ex: http://localhost/pastaDoSistema
 
 
-/conecxao/Conexao.php
+/conexao/Conexao.php
 
 -> Ativar acesso ao banco pelo PDO
 
